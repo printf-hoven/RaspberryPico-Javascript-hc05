@@ -5,6 +5,7 @@ Write to us for any modifications and customizations - our contact can be found 
 Youtube Explanation: https://youtu.be/zgtEQqa-_Lg
 
  ========self notes for future needs====================
+ 
     case UART_GOTCHAR: {
 
       uint8_t data[] = { 0, '\n' };
